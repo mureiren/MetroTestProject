@@ -21,4 +21,4 @@ Appium test frame work to test the API Demo APP
 ```
 > Test success and failure reports are generated automatically in the /reports folder
 ### Sample report
-http://localhost:63342/MetroTest/reports/Extent_Fri_Nov_08_00_21_14_GMT_2019.html?_ijt=2ls1bkpfsgh0s13nou4oret6iq#!
+![SampleReport](https://user-images.githubusercontent.com/53050573/68462222-01b53900-0204-11ea-9e46-86b4d6ff9122.PNG)
