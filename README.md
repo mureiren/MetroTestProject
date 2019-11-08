@@ -7,7 +7,7 @@ Appium test frame work to test the API Demo APP
 * jdk (>=1.8 required)
 * maven (>=3.0.5 required)
 * Android sdk and tools (required)
-* Please change the capabilities accordingly in the base test to run it on your devices. 
+* Please change the capabilities accordingly in the base test to run it on your devices. https://github.com/mureiren/MetroTestProject/blob/master/MetroTest/src/test/java/Base/BaseTest.java
 
 
 ### Setup
